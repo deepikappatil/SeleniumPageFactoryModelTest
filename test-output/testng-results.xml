@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14383" started-at="2020-03-08T16:44:14 MEZ" finished-at="2020-03-08T16:44:28 MEZ">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14383" started-at="2020-03-08T16:44:14 MEZ" finished-at="2020-03-08T16:44:28 MEZ">
+      <class name="com.selenium.pagefactory.test.SearchTest">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:com.selenium.pagefactory.test.SearchTest@71bbf57e]" name="invokeBrowser" is-config="true" duration-ms="6061" started-at="2020-03-08T16:44:14 MEZ" finished-at="2020-03-08T16:44:20 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="test_HomePage_FloorNum()[pri:0, instance:com.selenium.pagefactory.test.SearchTest@71bbf57e]" name="test_HomePage_FloorNum" duration-ms="2436" started-at="2020-03-08T16:44:20 MEZ" finished-at="2020-03-08T16:44:22 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage_FloorNum -->
+        <test-method status="PASS" signature="test_SearchFifthFloor()[pri:0, instance:com.selenium.pagefactory.test.SearchTest@71bbf57e]" name="test_SearchFifthFloor" duration-ms="4377" started-at="2020-03-08T16:44:22 MEZ" finished-at="2020-03-08T16:44:27 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_SearchFifthFloor -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.pagefactory.test.SearchTest@71bbf57e]" name="closeBrowser" is-config="true" duration-ms="1479" started-at="2020-03-08T16:44:27 MEZ" finished-at="2020-03-08T16:44:28 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.selenium.pagefactory.test.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
